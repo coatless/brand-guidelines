@@ -1,2 +1,4 @@
-# brand-guidelines
-Brand Guidelines
+# Brand Guidelines
+
+Assets describing a brands guidelines.
+
